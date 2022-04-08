@@ -1,3 +1,3 @@
-# Responsive site
-![alt text](http://url/to/IMG/preview)
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
  
